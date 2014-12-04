@@ -1,0 +1,32 @@
+.style1{
+	background-color:#3366CC;
+	color: #fff;
+
+}
+.style2{
+	background-color:#C2D1F0;
+}
+
+#banner img {width:100%} 
+
+
+
+h1 {
+    font-size: 60px;
+    color:#fff;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.thumbnail {
+ float:right;
+    width: 80px;
+    height: 40px;
+    margin: 70px;
+}
+
+#intro{
+	height:590px;
+}
